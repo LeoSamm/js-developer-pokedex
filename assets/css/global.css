@@ -4,7 +4,8 @@
 }
 
 body {
-    background-color: #f6f8fc;
+    background-size: cover;
+    background-image: url(linhas-abstratas-de-fundo-de-cores-vetoriais_2065-311.avif);
 }
 
 .content {
